@@ -1,1 +1,1 @@
-# cs50
+hello naturelza fysi
